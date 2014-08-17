@@ -1,0 +1,24 @@
+﻿Build started 8/13/2014 6:35:09 PM.
+     1>Project "C:\Dev\jsoncpp-master\makefiles\msvc2010\lib_json.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Release\lib_json.lastbuildstate".
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\Dev\jsoncpp-master\makefiles\msvc2010\Release\vc100.pdb' because it is being used by another process.
+       InitializeBuildStatus:
+         Touching "Release\lib_json.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\src\lib_json\json_reader.cpp ..\..\src\lib_json\json_value.cpp ..\..\src\lib_json\json_writer.cpp
+         json_reader.cpp
+         json_value.cpp
+         json_writer.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Dev\jsoncpp-master\makefiles\msvc2010\Release\lib_json.lib" /NOLOGO /LTCG Release\json_reader.obj
+         Release\json_value.obj
+         Release\json_writer.obj
+         lib_json.vcxproj -> C:\Dev\jsoncpp-master\makefiles\msvc2010\Release\lib_json.lib
+       FinalizeBuildStatus:
+         Touching "Release\lib_json.lastbuildstate".
+     1>Done Building Project "C:\Dev\jsoncpp-master\makefiles\msvc2010\lib_json.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.03

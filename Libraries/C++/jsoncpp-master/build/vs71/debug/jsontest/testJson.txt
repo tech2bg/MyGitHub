@@ -1,0 +1,1 @@
+﻿{"DICT":{{"Key":"1M","Value":0.1},{"Key":"2M","Value":0.1},{"Key":"3M","Value":0.1}},"Value":100}.

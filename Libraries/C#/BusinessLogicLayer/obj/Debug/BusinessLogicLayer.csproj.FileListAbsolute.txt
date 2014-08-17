@@ -1,0 +1,14 @@
+C:\ALOBA\GIFT\InflationCurveApps\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\ALOBA\GIFT\InflationCurveApps\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\ALOBA\GIFT\InflationCurveApps\BusinessLogicLayer\bin\Debug\Utilities.dll
+C:\ALOBA\GIFT\InflationCurveApps\BusinessLogicLayer\bin\Debug\Utilities.pdb
+C:\ALOBA\GIFT\InflationCurveApps\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\ALOBA\GIFT\InflationCurveApps\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\ALOBA\GIFT\InflationCurveApps\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\ALOBA\GIFT\DEV\InflationCurveApps\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\ALOBA\GIFT\DEV\InflationCurveApps\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\ALOBA\GIFT\DEV\InflationCurveApps\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\ALOBA\GIFT\DEV\InflationCurveApps\BusinessLogicLayer\bin\Debug\Utilities.dll
+C:\ALOBA\GIFT\DEV\InflationCurveApps\BusinessLogicLayer\bin\Debug\Utilities.pdb
+C:\ALOBA\GIFT\DEV\InflationCurveApps\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\ALOBA\GIFT\DEV\InflationCurveApps\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
